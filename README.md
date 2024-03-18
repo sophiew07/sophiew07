@@ -6,7 +6,7 @@
     - Email: sophiewong0607@gmail.com
 - 😄 Pronouns: she/her
 
-I have uploaded my previous projects, feel free to check them out!
+I have uploaded the projects I have done so far, feel free to check them out!
 
 <!---
 sophiew07/sophiew07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
