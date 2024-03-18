@@ -5,6 +5,7 @@
 - 📫 How to reach me:
     - Email: sophiewong0607@gmail.com
 - 😄 Pronouns: she/her
+
 I have uploaded my previous projects, feel free to check them out!
 
 <!---
